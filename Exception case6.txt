@@ -1,0 +1,34 @@
+public class exceptiondemo
+{
+	public static void main(String[]args)
+	{
+		try
+		{
+			System.out.println("hi");
+			
+		}
+		catch(Exception e)
+		{
+			try
+			{
+				System.out.println("hiiii");
+			}
+			catch(Exception ne){
+			
+			}
+			
+		
+		finally
+		{
+		System.out.println("hello");
+		}
+			
+		}
+	
+	}}
+
+
+
+
+
+output:hi
