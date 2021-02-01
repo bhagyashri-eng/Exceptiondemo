@@ -1,0 +1,19 @@
+public class exceptiondemo {
+	public static void main(String[]args)
+	{
+		try
+		{
+			
+				
+		}
+	}
+}
+
+output:
+
+
+
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+	Syntax error, insert "Finally" to complete BlockStatements
+
+	at exceptiondemo.main(exceptiondemo.java:9)
